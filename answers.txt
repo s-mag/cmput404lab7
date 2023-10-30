@@ -1,0 +1,7 @@
+Question 0 : https://github.com/s-mag/cmput404lab7
+Question 1 : Flask is a lightweight micro-framework; it's flexible but requires external extensions for added functionalities. Django is a high-level framework with built-in functionalities like an ORM, admin interface, and authentication.
+Question 2 : REST stands for Representational State Transfer. A RESTful service follows REST principles, such as being stateless and using standardized HTTP methods.
+Question 3 : CRUD stands for Create, Read, Update, Delete. Associated HTTP methods are: POST (Create), GET (Read), PUT/PATCH (Update), DELETE (Delete).
+Question 4 : 1XX: Informational, 2XX: Success, 3XX: Redirection, 4XX: Client errors, 5XX: Server errors 
+Question 5 : XSS (Cross-Site Scripting) is an attack where malicious scripts are injected into trusted websites. A site can be vulnerable if it doesn't validate or escape user input before displaying it.
+Question 6 : CORS stands for Cross-Origin Resource Sharing. It's needed when a web page makes requests to a different domain than the one that served the web page, to control and secure cross-origin requests.
